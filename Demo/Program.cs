@@ -10,6 +10,8 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HEJ");
+            Console.ReadKey();
         }
     }
 }
